@@ -642,7 +642,7 @@ input {
 }
 
 .footer-grid {
-  grid-template-columns: 1.1fr .8fr .8fr .9fr 1fr;
+  grid-template-columns: 1.1fr .8fr .8fr .9fr 0fr;
   align-items: start;
 }
 
